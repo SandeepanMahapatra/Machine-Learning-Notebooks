@@ -3,11 +3,11 @@ In this notebook I've used various machine learning algorithms such as Logistic 
 
 ## Objective
 
-- To predict the price of the house with the help of various parameters.
+- To predict the survival of the passenger.
 
 ## Approach & Implementation
 
 - Dataset has been cleaned thoroughly.
 - Various relationships between the columns have been established using plotting libraries like matplotlib and seaborn.
-- Evaluation of the model has been performed by metrics such as MSE and RMSE values.
+- Evaluation of the model has been performed by metrics such as MSE and RMSE values \n
 This notebook is also available at https://www.kaggle.com/sandeepanmahapatra/titanic-dataset-my-first-kaggle-dataset as it was part of one of my first kaggle contest.
