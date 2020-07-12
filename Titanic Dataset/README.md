@@ -9,5 +9,7 @@ In this notebook I've used various machine learning algorithms such as Logistic 
 
 - Dataset has been cleaned thoroughly.
 - Various relationships between the columns have been established using plotting libraries like matplotlib and seaborn.
-- Evaluation of the model has been performed by metrics such as MSE and RMSE values \n
-This notebook is also available at https://www.kaggle.com/sandeepanmahapatra/titanic-dataset-my-first-kaggle-dataset as it was part of one of my first kaggle contest.
+- Evaluation of the model has been calculated by the F1 score and the accuracy on the train set and the test set.
+
+
+####This notebook is also available at https://www.kaggle.com/sandeepanmahapatra/titanic-dataset-my-first-kaggle-dataset as it was part of one of my first kaggle contest.
