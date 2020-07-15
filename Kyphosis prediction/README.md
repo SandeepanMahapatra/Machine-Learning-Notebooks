@@ -1,4 +1,4 @@
-# Prediction in Classified Dataset using D-Trees and Random Forest
+# Prediction using D-Trees and Random Forest
 This is a small dataset (81 columns). We have used both D-Trees and Random Forest classifier. Random forest model performed better.
 
 
