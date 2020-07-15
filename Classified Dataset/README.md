@@ -1,5 +1,7 @@
 # Prediction in Classified Dataset
-In this dataset, all the columns are classified i.e, we don't know what the dimensions signify. We don't have any insight on the data. All we have is unknown data.
+In this dataset, all the columns are classified i.e, we don't know what the dimensions signify. We don't have any insight on the data. All we have is unknown data. The head of the data is shown below.
+
+![Screenshot (506)](https://user-images.githubusercontent.com/46254929/87510410-2a45da80-c691-11ea-840f-c1a889118e95.png)
 
 
 ## Objective
