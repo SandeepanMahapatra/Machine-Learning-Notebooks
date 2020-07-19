@@ -1,12 +1,12 @@
-# Prediction in Classified Dataset using D-Trees and Random Forest
-In this dataset we are predicting that the cancer is Malignant or Benign with the help of SVM model.
+# Predicting Severity of Aircraft crash
 
 ## Objective
-- We have to predict the type of cancer (Malignant or Benign).
+- We have to predict the severity of the aircraft crash (Malignant or Benign).
 
 ## Approach & Implementation
 
 - Dataset has been cleaned thoroughly.
-- Support Vector Machine is used here.
-- GridSearchCV was used to find the most suitable hyperparameters.
+- New intresting libraries like ppscore and lazypredict has been used here.
+- LGBM Classifier model is used here.
+- Hyperparameter have been tuned by experimenting with different values.
 - The performance of the model was evaluated by calculating the confusion matrix and the F1 score.
