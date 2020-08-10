@@ -1,7 +1,7 @@
 # Predicting Severity of Aircraft crash
 
 ## Objective
-- We have to predict the severity of the aircraft crash (Malignant or Benign).
+- We have to predict the severity of the aircraft crash.
 
 ## Approach & Implementation
 
